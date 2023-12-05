@@ -15,7 +15,7 @@
 ## Find me at
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-@Tomas_Garcea-lightblue?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/tomas-garcea-01193422a/)</br>
 [![Instagram](https://img.shields.io/badge/Instagram-@Tomy__garcea-violet?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://www.instagram.com/tomy_garcea/)</br>
-[![Portfolio](https://img.shields.io/badge/My_portfolio-14a1f0?style=for-the-badge)](https://phenomenal-eclair-725c1e.netlify.app/)
+[![Portfolio](https://img.shields.io/badge/My_portfolio-14a1f0?style=for-the-badge)](https://tomas1214.github.io/Portfolio/)
 
 
 
