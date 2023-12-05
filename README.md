@@ -3,7 +3,7 @@
 ## My skills:
 
 ### Learning now:
-![JS](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010) at Platzi
+![JS](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010) at ![Platzi](https://img.shields.io/badge/Platzi-green?style=for-the-badge&logo=platzi&logoColor=white&labelColor=101010)
 
 ### Actually using these:
 ![HTML](https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5&logoColor=white&labelColor=101010)</br>
