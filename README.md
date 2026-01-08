@@ -2,10 +2,10 @@
 ### I'm Tomas Garcea, a fullstack web developer
 ## My skills:
 
-### Learning now:
-![JS](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010) at ![Platzi](https://img.shields.io/badge/Platzi-green?style=for-the-badge&logo=platzi&logoColor=white&labelColor=101010)
+<!--### Learning now:
+![JS](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010) at ![Platzi](https://img.shields.io/badge/Platzi-green?style=for-the-badge&logo=platzi&logoColor=white&labelColor=101010)-->
 
-### Actually using these:
+<!--### Actually using these:-->
 ![HTML](https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5&logoColor=white&labelColor=101010)</br>
 ![CSS](https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3&logoColor=white&labelColor=101010)</br>
 ![CSS](https://img.shields.io/badge/Normalize.css-red?style=for-the-badge&logo=normalize.css&logoColor=white&labelColor=101010)</br>
