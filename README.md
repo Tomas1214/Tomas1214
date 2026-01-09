@@ -1,6 +1,6 @@
 # Welcome! 
 ### I'm Tomas Garcea, a fullstack web developer
-## My skills:
+## Practiced with:
 
 <!--### Learning now:
 ![JS](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010) at ![Platzi](https://img.shields.io/badge/Platzi-green?style=for-the-badge&logo=platzi&logoColor=white&labelColor=101010)-->
